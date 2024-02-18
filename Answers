@@ -1,0 +1,73 @@
+ANSWERS:
+
+Module 8 and 9:
+
+1. Correlation:
+   a) i) 0.6
+   b) iii) Strong negative correlation
+
+2. Basics of Regression Models:
+   a) ii) To predict continuous outcomes
+   b) i) One
+
+3. Ordinary Least Squares (OLS):
+   a) i) Minimizing the sum of squared errors
+   b) ii) The value of the dependent variable when all independent variables are zero
+
+4. Simple Linear Regression:
+   a) ii) It is the variable being predicted from
+   b) i) By minimizing the sum of squared residuals
+
+5. Random Forests:
+   a) iii) They are an ensemble learning method
+   b) ii) By averaging predictions from multiple decision trees
+
+6. Model Diagnostics:
+   a) ii) To identify outliers and patterns in the residuals
+   b) ii) The model is unbiased
+
+7. Logistic Regression:
+   a) ii) Categorical
+   b) i) To calculate probabilities of class membership
+
+8. K Nearest Neighbors (KNN):
+   a) ii) The number of nearest neighbors to consider
+   b) ii) By assigning it to the most common class among its nearest neighbors
+
+9. K-Means Clustering:
+   a) i) To maximize intra-cluster similarity and minimize inter-cluster similarity
+   b) i) Randomly
+
+10. PCA (Principal Component Analysis):
+    a) i) To reduce the dimensionality of the data
+    b) i) By maximizing the covariance between variables
+
+Module 14:
+
+1. Padding:
+   a) ii) To increase the size of feature maps
+   b) iv) Zero padding
+
+2. Strided Convolutions:
+   a) iii) The step size of the filter/kernel
+   b) ii) Decreases the output size
+
+3. Convolutions Over Volume:
+   a) iv) The number of output channels
+   b) i) By using 3D filters/kernels
+
+4. One Layer of a Convolutional Network:
+   a) ii) To introduce non-linearity
+   b) i) Filter/kernel weights and biases
+
+5. Simple Convolutional Network Example:
+   a) i) Multiple convolutional layers followed by pooling layers and fully connected layers
+   b) iii) To make predictions based on the features learned by convolutional layers
+
+6. Pooling Layers:
+   a) ii) To reduce the size of feature maps
+   b) i) Max pooling
+
+7. CNN Example:
+   a) ii) Image classification
+   b) ii) To extract relevant features from the input data
